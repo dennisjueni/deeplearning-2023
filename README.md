@@ -1,6 +1,6 @@
 # Deep Learning Advanced Initialization
 
-Deep Learning Project ETHZ HS23 from Jannek Ulm, Leander Diaz-Bone, Alexander Bayer, and Dennis Jüni
+Deep Learning Project ETHZ HS23 from Jannek Ulm, Leander Diaz-Bone, Alexander Bayer, and Dennis Jüni.
 The final report can be found [here](./final_report.pdf).
 
 ## Training the models
